@@ -6,6 +6,7 @@ import reactPlugin from 'vite-plugin-react'
  */
 const config = {
   jsx: 'react',
+  base: "/portfolio-react-router",
   plugins: [reactPlugin]
 }
 
