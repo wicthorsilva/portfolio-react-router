@@ -30,3 +30,12 @@
     color: white;
   
   }
+
+  @media (max-width:480px) {
+    .conteudo-sobremim {
+        width: 300px;
+        font-size: 17px;
+    }
+
+
+}

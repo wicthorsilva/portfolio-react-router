@@ -1,4 +1,7 @@
 import React from "react";
+
+import "./Header.css";
+
 import imgWicthor from "../../assets/img/img_wicthor-portfolio.png";
 
 function Header() {

@@ -33,41 +33,7 @@ li a {
 }
 
 
-/*Conteudo do cabeçalho e menu*/
-.header-principal {
-  background-color: #12121e;
-  width: 100%;
-  height: auto;
-}
-.header-my-name_my-img {
-  color: white;
-  display: flex;
-  text-align: center;
-}
-
- .my-name_my-img {
-  margin: auto;
- }
-
-#titulo-page-myname {
-  color: #9f47f1;
-  font-size: 25px;
-  font-weight: 200px;
-  margin-top: 10rem;
-}
-#titulo-page-myname h4 {
-  color: white;
-  font-size: 21px;
-  font-weight: 200;
-}
-#my-img img{ 
-  width: 350px;
-  height: 350px;
-}
-#my-img{ 
-  margin-top: 5rem;
-  margin-right: auto;
-}
+/*Conteudo do menu*/
 
 
 .nav-bar {
@@ -181,23 +147,7 @@ footer {
 
 
 @media (max-width:400px) {
-
-  .header-my-name_my-img {
-      color: white;
-      display: block;
-     margin: auto;
-  }
-
-  .conteudo-sobremim{
-      margin-left: 0%;
-      margin-right: 0%;
-  }
-
-  .container-curriculo {
-      border-radius: 50px;
-      margin: auto;   
-  }
-
+  
   .redes-contatos {
       padding: 1rem;
       text-align: center;
@@ -236,11 +186,6 @@ footer {
       display: inline-block;
       width: 100%;
       margin-left: 1.5rem;
-  }
-
-  .conteudo-sobremim{
-      margin-left: 0%;
-      margin-right: 0%;
   }
 
   .container-curriculo {
